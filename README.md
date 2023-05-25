@@ -7,7 +7,7 @@ Define a new did method `etd-did` based on [W3C did protocol](https://www.w3.org
 
 * did document (simple):
 
-  ```json
+  ```css
   {
     '@context': [
         "https://www.w3.org/ns/did/v1",
