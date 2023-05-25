@@ -1,8 +1,6 @@
 # etd-did
 Define a new did method `etd-did` based on [W3C did protocol](https://www.w3.org/TR/did-core/).
 
-
-
 * did identifier：`did:etd:<etd address>`
 
 * did document (simple):
@@ -34,6 +32,8 @@ Define a new did method `etd-did` based on [W3C did protocol](https://www.w3.org
 * `ENS.sol`: Etd Name Service.
 
 ### ETDDIDReg.sol
+
+Contract Address: `0xDca6E0B44C662c4Ed093732cC8F5b0c0075FC25E`
 
 #### Events
   * `AttributeChanged`
