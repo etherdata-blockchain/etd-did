@@ -14,7 +14,7 @@
 
 2. 流程图
 
-![](https://raw.githubusercontent.com/X-i-e/picbed/main/metamask%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.svg)
+![](https://raw.githubusercontent.com/X-i-e/picbed/main/afwbh-hb7c6.png)
 
 3. js代码
 
