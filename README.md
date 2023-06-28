@@ -53,5 +53,7 @@ Contract Address: `0x78A78Ea68BBBc11a196D576E9564b9B95A23B801`
     * `bytes memory value`：Attribute value
     * `int updated`：Update
 
+### DIDNameReg.sol
 
+Contract Address: `0x0eFCC08cD9831CE3d72c362A5b92011AAD26B23e`
 
