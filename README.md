@@ -33,7 +33,7 @@ Define a new did method `etd-did` based on [W3C did protocol](https://www.w3.org
 
 ### ETDDIDReg.sol
 
-Contract Address: `0xDca6E0B44C662c4Ed093732cC8F5b0c0075FC25E`
+Contract Address: `0x78A78Ea68BBBc11a196D576E9564b9B95A23B801`
 
 #### Events
   * `AttributeChanged`

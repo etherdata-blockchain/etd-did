@@ -35,7 +35,7 @@ contract EtdDIDReg{
         bytes memory created,
         int updated
     )
-        public
+        public onlyOwner(identity, msg.sender)
     {
         emit AttributeChanged(identity, KEY_CREATED, created, changed[identity], updated);
         emit AttributeChanged(identity, KEY_ALSO_KNOWN_AS, alsoknownas, changed[identity], updated);
