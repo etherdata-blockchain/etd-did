@@ -37,7 +37,7 @@ To ensure the security of the DID and its associated assets, we assign certain t
 
   *  *SHOULD* be registered in the DID Specification Registries
 
-  <img src="C:\Users\谢可心\AppData\Roaming\Typora\typora-user-images\image-20230719222245443.png" alt="image-20230719222245443" style="zoom:80%;" />
+  <img src="https://raw.githubusercontent.com/X-i-e/picbed/main/image-20230719222245443.png" alt="image-20230719222245443" style="zoom:80%;" />
 
 * service Endpoint
 
