@@ -5,6 +5,7 @@
 Define a new did method `etd-did` based on [W3C did protocol](https://www.w3.org/TR/did-core/).
 
 * did identifier：`did:etd:<etd address>`
+* [design](https://www.figma.com/file/eq2DxnqSFtNzxffzMr5k3h/DID%2CStorage%2CNFT%2B%2B?type=whiteboard&t=ry6Egb1A9mOsoBJt-0)
 
 ## DID Document
 
